@@ -1,6 +1,6 @@
-# **Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP) Management System.**
+# **Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP) Management System. (==Version 0.0.1==)**
 
-**(_Title could still change_) (Version 0.0.1)**
+**(_Title could still change_)**
 
 ## Project Description
 
