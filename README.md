@@ -86,7 +86,7 @@ Then edit the `.env` file and add your database credentials:
 ## Screenshot
 
 **While there's no data available, enjoy a picture of the developer's cat**
-![image](img\placeholder.jpg)
+![image](img/placeholder.jpg)
 
 _Screenshot: The CSMS Dashboard displaying real-time analytics of beneficiary distribution across the 12 municipalities of Camarines Norte, with filtering options and visual charts for data-driven decision making._
 
