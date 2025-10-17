@@ -1,6 +1,6 @@
-# **Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP) Management System. (==Version 0.0.1==)**
+# **Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP) Management System. **
 
-**(_Title could still change_)**
+**(_Title could still change_) <mark>(Version 0.0.1) </mark>**
 
 ## Project Description
 
@@ -85,7 +85,7 @@ Then edit the `.env` file and add your database credentials:
 
 ## Screenshot
 
-## **While there's no screenshots available, enjoy a picture of the main developer's cat as a placeholder**
+## **While there's no screenshots available, enjoy a picture of the main developer's cat as a placeholder :smiley_cat:**
 
 ## ![image](docs/img/placeholder.jpg)
 
