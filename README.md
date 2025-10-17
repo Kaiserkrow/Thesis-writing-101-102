@@ -75,8 +75,10 @@ Then edit the `.env` file and add your database credentials:
 4. **Note to self: Update step 4 if resources are available**
 
 ```bash
-   We don't have any more ideas after this for our installation steps. (so let's pretend that the web app is installed).
+"
+   We dont have any more ideas after this for our installation steps. (so let's pretend that the web app is installed).
    No available installation guides, because the system is still in progress. Thanks.
+"
 ```
 
 ---
@@ -84,7 +86,7 @@ Then edit the `.env` file and add your database credentials:
 ## Screenshot
 
 **While there's no data available, enjoy a picture of the developer's cat**
-![System Dashboard Overview](docs\img\placeholder.jpg)
+![image](docs\img\placeholder.jpg)
 
 _Screenshot: The CSMS Dashboard displaying real-time analytics of beneficiary distribution across the 12 municipalities of Camarines Norte, with filtering options and visual charts for data-driven decision making._
 
