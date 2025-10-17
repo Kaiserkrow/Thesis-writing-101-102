@@ -1,26 +1,92 @@
-# **Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP) Management System**
+# **Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP) Management System.**
+
+**(_Title could still change_)**
 
 ## Project Description
 
 The **CNPGCEAP Management System** is a comprehensive web-based application developed to modernize and streamline the management of the Camarines Norte Provincial Government College Education Assistance Program.
 
-Currently, the Community Affairs Office (CAO) manages educational assistance using manual, paper-based processes that are time-consuming, error-prone, and lack analytical capabilities. Staff members spend days or weeks manually encoding student information from DepEd documents, then re-encode the same data when preparing payroll and disbursement documents.
+Currently, the Community Affairs Office (CAO) manages educational assistance using manual, paper-based processes that are time-consuming, error-prone, and lack analytical capabilities. Staff members spend days or weeks manually encoding student information, then re-encode the same data when preparing payroll and disbursement documents.
 
-## How to use
+---
 
-1. Replace placeholder content in each `.md` file.
-2. Keep sections modular (one file per page) in their respective chapter folders.
-3. Use `index.md` as the entry point. Links already point to each section.
-4. (Optional) Build a site with MkDocs:
-   ```bash
-   pip install mkdocs mkdocs-material
-   mkdocs serve        # local preview at http://127.0.0.1:8000
-   mkdocs build        # outputs site/ directory
-   ```
+## Features
 
-## Folder layout
+- **AI-Powered OCR Technology** - Automatically extract student data (names, schools, municipalities) from PDF or paper documents provided by students
+- **Bulk Data Upload & Processing** - Import and process thousands of scholar records simultaneously via Excel files
+- **Intelligent Duplicate Detection** - Automatically identify and alert users about duplicate entries during data upload
+- **Advanced Search & Filtering** - Search beneficiaries by name, school, municipality, barangay, district, or any demographic criteria
+- **Real-Time Analytics Dashboard** - Visual insights and charts showing program distribution, beneficiary demographics, and trends
+- **Centralized Scholar Database** - Single source of truth containing personal details, school information, and complete disbursement history
+- **Automated Payroll Generation** - Generate payroll and disbursement documents directly from the database without manual re-encoding
+- **Role-Based Access Control** - Three user levels (Viewer, Payroll Staff, Admin) with clearly defined permissions
+- **Audit Trail & Login History** - Track all system activities, user logins, and data modifications for transparency and accountability
+- **Customizable Report Generation** - Create detailed reports filtered by multiple criteria (municipality, school, date range, etc.)
+- **Data Export Functionality** - Export scholar data and reports to Excel, PDF, or CSV formats
 
-See the tree below or open `mkdocs.yml` to adjust the sidebar navigation.
+---
+
+## Installation Steps (\*_No live codebase, so let's just pretend_)
+
+### Prerequisites
+
+Before installing, ensure you have the following software installed:
+
+```
+- Composer
+- PHP 7.4 or higher
+- MySQL 8.0 or higher
+- MySQL Workbench 8.0 or higher
+- Node.js 14.x or higher (optional, if using Node.js as backend)
+```
+
+### Installation Instructions
+
+1. **Clone the repository from GitHub**
+
+```bash
+   git clone https://github.com/kaiserkrow/example-code-base-ths101.git
+   cd example-code-base-ths101
+```
+
+2. **Install PHP dependencies using Composer**
+
+```bash
+   composer install
+```
+
+3. **Create and configure the environment file**
+
+```bash
+   cp .env.example .env
+```
+
+Then edit the `.env` file and add your database credentials:
+
+```
+   DB_CONNECTION=mysql
+   DB_HOST=127.0.0.1
+   DB_PORT=3306
+   DB_DATABASE=cnepghseap_db
+   DB_USERNAME=your_username
+   DB_PASSWORD=your_password
+```
+
+4. **Note to self: Update step 4 if resources are available**
+
+```bash
+   We don't have any more ideas after this for our installation steps. (so let's pretend that the web app is installed).
+   No available installation guides, because the system is still in progress. Thanks.
+```
+
+---
+
+## Screenshot
+
+**While there's no data available, enjoy a picture of the developer's cat**
+![System Dashboard Overview](docs\img\placeholder.jpg)
+
+_Screenshot: The CSMS Dashboard displaying real-time analytics of beneficiary distribution across the 12 municipalities of Camarines Norte, with filtering options and visual charts for data-driven decision making._
 
 **Academic Context:**  
 This project is developed as part of the THS 101 (Thesis Writing 101) coursework by 4th-year Computer Science students at Mabini Colleges, Inc., in partnership with the Community Affairs Office of the Provincial Government of Camarines Norte.
