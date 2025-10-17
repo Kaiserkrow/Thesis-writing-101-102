@@ -6,12 +6,7 @@
 
 The **CNPGCEAP Management System** is a comprehensive web-based application developed to modernize and streamline the management of the Camarines Norte Provincial Government College Education Assistance Program.
 
-## Currently, the Community Affairs Office (CAO) manages educational assistance using manual, paper-based processes that are time-consuming, error-prone, and lack analytical capabilities. Staff members spend days or weeks manually encoding student information, then re-encode the same data when preparing payroll and disbursement documents.
-
----
-
-**Academic Context:**  
-This project is developed as part of the THS 101 (Thesis Writing 101) coursework by 4th-year Computer Science students at Mabini Colleges, Inc., in partnership with the Community Affairs Office of the Provincial Government of Camarines Norte.
+Currently, the Community Affairs Office (CAO) manages educational assistance using manual, paper-based processes that are time-consuming, error-prone, and lack analytical capabilities. Staff members spend days or weeks manually encoding student information, then re-encode the same data when preparing payroll and disbursement documents.
 
 ---
 
@@ -94,3 +89,6 @@ Then edit the `.env` file and add your database credentials:
 ![image](docs/img/placeholder.jpg)
 
 _Screenshot: The CSMS Dashboard displaying real-time analytics of beneficiary distribution across the 12 municipalities of Camarines Norte, with filtering options and visual charts for data-driven decision making._
+
+**Academic Context:**  
+This project is developed as part of the THS 101 (Thesis Writing 101) coursework by 4th-year Computer Science students at Mabini Colleges, Inc., in partnership with the Community Affairs Office of the Provincial Government of Camarines Norte.
