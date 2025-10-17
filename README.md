@@ -1,6 +1,6 @@
 # **Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP) Management System.**
 
-**(_Title could still change_)**
+**(_Title could still change_) (Version 0.0.1)**
 
 ## Project Description
 
@@ -26,7 +26,7 @@ Currently, the Community Affairs Office (CAO) manages educational assistance usi
 
 ---
 
-## Installation Steps (\*_No live codebase, so let's just pretend_)
+## Installation Steps (\*_No live codebase yet, so let's just pretend_)
 
 ### Prerequisites
 
@@ -85,10 +85,11 @@ Then edit the `.env` file and add your database credentials:
 
 ## Screenshot
 
-**While there's no data available, enjoy a picture of the developer's cat**
-![image](docs/img/placeholder.jpg)
+## **While there's no screenshots available, enjoy a picture of the main developer's cat as a placeholder**
 
-_Screenshot: The CSMS Dashboard displaying real-time analytics of beneficiary distribution across the 12 municipalities of Camarines Norte, with filtering options and visual charts for data-driven decision making._
+## ![image](docs/img/placeholder.jpg)
+
+_Screenshot: She's the main developer's partner in crime. Her name is Kremy, a splendid feline with a hint of spiciness._
 
 **Academic Context:**  
 This project is developed as part of the THS 101 (Thesis Writing 101) coursework by 4th-year Computer Science students at Mabini Colleges, Inc., in partnership with the Community Affairs Office of the Provincial Government of Camarines Norte.
