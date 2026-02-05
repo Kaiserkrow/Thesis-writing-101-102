@@ -1,0 +1,95 @@
+## **Introduction**
+Background of the Problem
+The Philippines has long prioritized education as a cornerstone of national development, enshrined in its Constitution (Article XIV, Section 1) which mandates the state to protect and promote the right of all citizens to quality education. The Department of Education (DepEd) oversees basic education, while the Commission on Higher Education (CHED) regulates tertiary institutions. Nationally, higher education faces challenges like limited access, high dropout rates, and regional disparities, exacerbated by socioeconomic factors. According to the Philippine Statistics Authority (PSA), as of 2022, the literacy rate stands at 96.3%, but enrollment in higher education hovers around 35-40% of eligible youth, with rural and low-income areas like Camarines Norte lagging behind urban centers (CHED Annual Report 2023). The Provincial Government of Camarines Norte plays a vital role in promoting higher education and supporting its constituents through various programs, with the Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP) as one of its flagship initiatives. Beyond supporting academic pursuits, the program reflects the provincial government’s commitment to strengthening the education sector, recognizing its essential role in shaping society and fostering long-term development for Camarines Norte. CNPGCEAP directly addresses national challenges by providing scholarships that enable students in underserved areas to focus on their studies, thereby contributing to higher enrollment and reduced dropout rates in line with CHED's goals.
+CNPGCEAP has significantly impacted families by providing scholarships that enable students to focus on their studies. Yet, growing beneficiary numbers have exposed critical inefficiencies in the current manual management system, resulting in delays, data inconsistencies, and increased administrative burden that hinder timely assistance delivery. These issues mirror national trends in scholarship programs, where manual processes in initiatives like the Unified Student Financial Assistance System for Tertiary Education (UniFAST) have led to similar bottlenecks, as noted in CHED reports. In rural provinces like Camarines Norte, these inefficiencies are amplified by regional disparities, underscoring the urgency for modernization. The proponents of this study have undertaken the task of analyzing and improving the existing CNPGCEAP management system. Through the development of a Web-Based Scholar Tracking and Management System, this project aims to streamline administrative processes, enhance record accuracy, and improve communication between administrators and scholars. By implementing technological solutions, the study seeks to optimize the efficiency and effectiveness of CNPGCEAP, contributing to the provincial government’s mission of supporting educational aspirations and ensuring that every deserving student receives timely and adequate assistance. This aligns with national digital transformation efforts, such as CHED's online platforms and the Department of Information and Communications Technology's (DICT) strategies, which have demonstrated 30-40% reductions in processing times through web-based systems (CHED Impact Assessment 2022). Ultimately, this localized innovation supports the Philippines' broader vision of inclusive, technology-driven education reform.
+
+## **Statement of the Problem**
+The current manual process employed by the Provincial Government of Camarines Norte in managing the Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP) presents significant operational challenges that hinder efficient scholarship administration and effective data management.
+Administrative staff manually encode all scholar information including personal details, academic records, and scholarship requirements into various documents and spreadsheets. This repetitive process is time-consuming, error-prone, and creates bottlenecks in processing applications, monitoring progress, and generating reports.
+Furthermore, the existing system lacks essential filtering and analytical capabilities. Administrators cannot efficiently segregate scholars by municipality, college, program, or status, hindering accurate reporting and data-driven decision-making. The absence of automated tracking tools limits the program's ability to identify gaps, monitor coverage, and optimize resource allocation across the province.
+The combination of labor-intensive manual processes and limited data management capabilities not only places an excessive workload on CNPGCEAP personnel but also delays the delivery of assistance to deserving college students. As the number of beneficiaries continues to increase each academic year, the current system's inadequacies become more critical, highlighting the urgent need for a web-based Scholar Tracking and Management System to ensure sustainable, accurate, and efficient program management.
+
+
+
+
+## **Objectives of the Study**
+## General Objective
+The general objective of this study is to design and develop a Web-Based Scholar Tracking and Management System for the Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP) to improve the efficiency, accuracy, and effectiveness of scholarship administration.
+
+## Specific Objectives
+
+To analyze the existing processes and challenges in managing CNPGCEAP scholar applications, records, and communication.
+
+
+To design a centralized web-based system that supports scholar registration, application processing, record management, and monitoring.
+
+
+To implement the proposed Scholar Tracking and Management System using appropriate web technologies to automate manual and repetitive administrative tasks.
+
+
+To evaluate the performance of the developed system in terms of processing time, accuracy of records, usability, and user satisfaction compared to the existing manual process.
+
+
+To improve communication and transparency between the provincial government and CNPGCEAP scholars through timely notifications, announcements, and accessible information.
+
+## **Scope and Delimitation**
+
+## Scope
+This study focuses on the design and development of a Web-Based Scholar Tracking and Management System for the Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP). The system is intended to support the administrative operations of the provincial government office responsible for managing college education assistance.
+
+
+The scope of the study includes the following functionalities:
+Management of scholar profiles, including personal information, academic details, and scholarship status
+
+
+Application processing, including submission, review, and approval of scholarship requirements
+
+
+Centralized record management for efficient storage, retrieval, and updating of scholar data
+
+
+Scholar monitoring, such as tracking academic progress and scholarship compliance
+
+
+Communication features, including announcements and notifications between administrators and scholars
+
+
+Basic reporting tools to support decision-making and program monitoring
+
+## Delimitation
+This study is limited to the web-based implementation of the Scholar Tracking and Management System. 
+
+The following are excluded from the scope:
+Development of mobile applications and offline system functionality
+
+
+Integration with external systems such as CHED, DOST, or other national scholarship databases
+
+
+Financial disbursement and accounting modules, including automated fund release
+
+
+System evaluation is limited to selected criteria, including usability, efficiency, accuracy, and user satisfaction, based on testing conducted during the development period. The study does not assess long-term operational impact, system scalability beyond the thesis timeframe, or post-deployment performance.
+
+
+
+
+## **Significance of the Study**
+This study contributes to the improvement of the Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP) by addressing the challenges in managing scholarship applications, scholar records, and communication within the province. As the demand for educational assistance continues to increase, the development of a web-based scholar tracking and management system becomes essential in ensuring efficient, transparent, and reliable delivery of services. 
+
+## For Future CCS Students
+This study serves as a practical reference and guide for future College of Computer Studies (CCS) students. It provides insights into the application of software engineering and information systems concepts in solving real-world government problems. The research may inspire future students to develop similar systems or enhance existing provincial-level solutions for their capstone projects and academic research.
+
+## For the Provincial Government of Camarines Norte
+The study benefits the Provincial Government by offering a structured and technology-driven approach to managing the CNPGCEAP. The proposed system supports efficient handling of scholar data, application processing, and monitoring, contributing to improved service delivery, transparency, and accountability in educational assistance programs.
+
+## For the Community Affairs Office (CAO)
+This study is significant for the Community Affairs Office (CAO) as it provides a centralized system that enhances coordination, record management, and communication with scholars. By adopting the CNPGCEAP system, the office can reduce manual workload, minimize errors, and ensure timely dissemination of information to beneficiaries across the province.
+
+## For the Administrators of CNPGCEAP
+For CNPGCEAP administrators, this study offers an evidence-based tool that supports better decision-making and program management. Automating records and processes reduces repetitive administrative tasks, improves data accuracy, and allows administrators to focus more on policy implementation, monitoring scholar performance, and delivering quality support services.
+
+
+## For the Scholars
+The study directly benefits CNPGCEAP scholars by providing a more organized, transparent, and accessible system for application tracking, record updates, and communication. This ensures timely access to information and assistance, helping scholars maintain their educational continuity and academic success.
+
