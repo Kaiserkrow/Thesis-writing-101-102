@@ -1,0 +1,38 @@
+Scope and Delimitation
+
+Scope
+This study focuses on the design and development of a Web-Based Scholar Tracking and Management System for the Camarines Norte Provincial Government College Education Assistance Program (CNPGCEAP). The system is intended to support the administrative operations of the provincial government office responsible for managing college education assistance.
+
+
+The scope of the study includes the following functionalities:
+Management of scholar profiles, including personal information, academic details, and scholarship status
+
+
+Application processing, including submission, review, and approval of scholarship requirements
+
+
+Centralized record management for efficient storage, retrieval, and updating of scholar data
+
+
+Scholar monitoring, such as tracking academic progress and scholarship compliance
+
+
+Communication features, including announcements and notifications between administrators and scholars
+
+
+Basic reporting tools to support decision-making and program monitoring
+
+Delimitation
+This study is limited to the web-based implementation of the Scholar Tracking and Management System. 
+
+The following are excluded from the scope:
+Development of mobile applications and offline system functionality
+
+
+Integration with external systems such as CHED, DOST, or other national scholarship databases
+
+
+Financial disbursement and accounting modules, including automated fund release
+
+
+System evaluation is limited to selected criteria, including usability, efficiency, accuracy, and user satisfaction, based on testing conducted during the development period. The study does not assess long-term operational impact, system scalability beyond the thesis timeframe, or post-deployment performance.
